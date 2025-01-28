@@ -1,5 +1,5 @@
 # SmartBuy
-This is my project smartbuy, a product order management system.I have coded this in C &  python
+This is my project "Smartbuy", a product order management system.I have coded this in C &  python
 
 # SmartBUY: A Product Order Management System
 
