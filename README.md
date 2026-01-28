@@ -4,6 +4,7 @@ This is my project "Smartbuy", a product order management system.I have coded th
 # SmartBUY: A Product Order Management System
 
 #### Video Demo: [https://youtu.be/QbBGb6yyDeE]
+<img width="447" height="444" alt="image" src="https://github.com/user-attachments/assets/f355b1c3-1dff-433b-998e-c620d634fffa" />
 
 ## **Description**
 
